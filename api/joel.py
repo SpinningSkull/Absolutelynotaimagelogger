@@ -1,5 +1,5 @@
 # Discord Image Logger
-# By Deffosick | https://github.com/dekrypted
+# By Deffosick | https://github.com/SpinningSkull
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
